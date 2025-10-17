@@ -6,3 +6,5 @@ My main academic and research interest is Radiation Physics; I'm particularly in
 
 I'm a member of NuclearVision Portugal, a group of students that aims to raise awareness to the advantages of using Nuclear Energy as an alternative to fossil fuels. 
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inestrindadepontes&layout=compact)
